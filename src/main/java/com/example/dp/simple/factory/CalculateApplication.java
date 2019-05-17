@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 /**
  * 计算器主方法
+ * @author Jason.lee
  */
 public class CalculateApplication {
     /**

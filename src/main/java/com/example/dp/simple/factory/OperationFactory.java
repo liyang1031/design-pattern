@@ -1,5 +1,9 @@
 package com.example.dp.simple.factory;
 
+/**
+ * 计算类工厂
+ * @author Jason.Lee
+ */
 public class OperationFactory {
 
     /**
